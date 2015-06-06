@@ -12,6 +12,7 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
     
+       int i = 0;
        NSArray *ClassNumber = @[@"1",@"2", @"3", @"4", @"5"];
        NSArray *Classes = @[@"Gym", @"Math", @"English", @"Spanish", @"History"];
        NSArray *Teachers = @[@"Mr. Cooper", @"Ms. Little", @"Mrs. Esther", @"Snr. Alvarez", @"Mrs. Spinx"];
